@@ -6,6 +6,7 @@ A remake of Zachtronics' "Shenzhen Solitaire" made in a single shell script.
 To play, input the stack you want to move and then the place you want to move it to using the 2-character codes on chart below (not case sensitive).
 You will be asked for the amount of cards to move if more than one move is valid with given input.
 
+```
                  ┌-DRAGON BUTTONS
                  │
 ╔═══TABLEAU═══╗  │  ╔════FOUNDATION════╗
@@ -18,6 +19,7 @@ You will be asked for the amount of cards to move if more than one move is valid
 |   ||   ||   ||   ||   ||   ||   ||   |
 ╰───╯╰───╯╰───╯╰───╯╰───╯╰───╯╰───╯╰───╯
 ╚═══════════════COLUMNS════════════════╝
+```
 
 To collapse all dragons of a suit to tableau spot input D\[1-3\] depending on suit and then choose a tableau spot.
 
